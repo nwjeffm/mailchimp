@@ -1,0 +1,7 @@
+{
+    "name": "mailchimp/mailchimp",
+    "require": {},
+    "autoload": {
+    	"psr-4": {"JeffM\\Mailchimp\\": "src"}
+    }
+}
